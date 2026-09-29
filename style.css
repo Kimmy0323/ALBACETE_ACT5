@@ -40,6 +40,11 @@ img {
     border: 3px solid darkblue;
 }
 
+img {
+    display: block;
+    margin: auto;
+}
+
 ul, ol {
     display: inline-block;
     text-align: left;
